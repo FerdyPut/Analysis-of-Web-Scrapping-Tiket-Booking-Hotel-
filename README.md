@@ -1,7 +1,7 @@
 # Analysis-of-Web-Scrapping-Tiket-Booking-Hotel-
 Analysis of Web Scrapping is the process of analyzing data obtained through web scraping techniques, which involve automatically extracting data from websites using bots or specific programs. This analysis aims to extract insights, identify trends, or further process the data after the scraping process is completed.
 
-# Steps of Webs Sscrapping (Generally)
+# Steps of Webs Scrapping (Generally)
 Web scraping begins by identifying the data source, such as an e-commerce or news website. The data is then extracted using libraries like BeautifulSoup or Scrapy, or Selenium for dynamically loaded content. Since the extracted data is often unstructured, it undergoes cleaning to remove duplicates, handle missing values, and convert it into a structured format like CSV or JSON. After cleaning, the data is analyzed using statistics, visualization, or machine learning models to gain insights. Finally, the results are stored in a database or visualized using tools like Looker Studio or Power BI for easier interpretation.
 
 # Case Project
@@ -31,6 +31,8 @@ e) Relational Database Capabilities – PostgreSQL enables seamless integration 
 f) Structured Storage & Fast Query Execution – PostgreSQL ensures structured data storage with efficient querying, making data retrieval and analysis more effective.
 
 ### You can see my analysis of project in below:
+PDF: [PDF of ETL SQL!](./Tiket.com ETL SQL.pdf)
+Google Colab: [Analysis of Web Scrapping!](./Tiket.com Web Scrapping Analysis.ipynb)
 
 
                                                           THANK YOU

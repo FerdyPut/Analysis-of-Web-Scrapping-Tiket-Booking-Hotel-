@@ -29,3 +29,11 @@ d) Security & User Experience – Hotel reservation data is crucial for booking 
 e) Relational Database Capabilities – PostgreSQL enables seamless integration between hotel data and related datasets, such as user profiles, bookings, and reviews.
 
 f) Structured Storage & Fast Query Execution – PostgreSQL ensures structured data storage with efficient querying, making data retrieval and analysis more effective.
+
+### You can see my analysis of project in below:
+
+
+                                                          THANK YOU
+
+# Follow More
+My Linkedln: https://www.linkedin.com/in/ferdypput/

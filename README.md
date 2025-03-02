@@ -31,7 +31,8 @@ e) Relational Database Capabilities – PostgreSQL enables seamless integration 
 f) Structured Storage & Fast Query Execution – PostgreSQL ensures structured data storage with efficient querying, making data retrieval and analysis more effective.
 
 ### You can see my analysis of project in below:
-PDF: [PDF of ETL SQL!](./Tiket.com ETL SQL.pdf)
+PDF: [PDF of ETL SQL!](./Tiket.com%20ETL%20SQL.pdf)
+
 Google Colab: [Analysis of Web Scrapping!](./Tiket.com Web Scrapping Analysis.ipynb)
 
 

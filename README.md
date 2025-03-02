@@ -1,4 +1,4 @@
-# Analysis of Web Scrapping Tiket Booking-Hotel-
+# Analysis of Web Scrapping Tiket Booking Hotel
 Analysis of Web Scrapping is the process of analyzing data obtained through web scraping techniques, which involve automatically extracting data from websites using bots or specific programs. This analysis aims to extract insights, identify trends, or further process the data after the scraping process is completed.
 
 # Steps of Webs Scrapping (Generally)

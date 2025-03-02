@@ -33,7 +33,7 @@ f) Structured Storage & Fast Query Execution – PostgreSQL ensures structured d
 ### You can see my analysis of project in below:
 PDF: [PDF of ETL SQL!](./Tiket.com%20ETL%20SQL.pdf)
 
-Google Colab: [Analysis of Web Scrapping!](./Tiket.com Web Scrapping Analysis.ipynb)
+Google Colab: [Analysis of Web Scrapping!](./Tiket.com%20Web%20Scrapping%20Analysis.ipynb)
 
 
                                                           THANK YOU
